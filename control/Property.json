@@ -1,0 +1,38 @@
+[
+    {
+        "propertyName": "Land",
+        "pid": "103",
+        "powner": "Mim",
+        "plocation": "Uttara",
+        "pprice": "5000001",
+        "email": "islam@gmail.com",
+        "pquantity": "2"
+    },
+    {
+        "propertyName": "Land",
+        "pid": "105",
+        "powner": "Jenita",
+        "plocation": "Mohammedpur",
+        "pprice": "800000",
+        "email": "islam@gmail.com",
+        "pquantity": "1"
+    },
+    {
+        "propertyName": "Land",
+        "pid": "102",
+        "powner": "Asrafa",
+        "plocation": "Dhanmondi",
+        "pprice": "800000",
+        "email": "asrafa@gmail.com",
+        "pquantity": "2"
+    },
+    {
+        "propertyName": "Flat",
+        "pid": "101",
+        "powner": "Satu",
+        "plocation": "Dhanmondi",
+        "pprice": "500000",
+        "email": "satu@gmail.com",
+        "pquantity": "2"
+    }
+]

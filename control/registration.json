@@ -1,0 +1,68 @@
+[
+    {
+        "sellerName": "Asrafa",
+        "email": "asrafa@gmail.com",
+        "gender": "Female",
+        "phone": "014789663335",
+        "streetAddress": "Mirpur",
+        "area": "Mirpur",
+        "city": "Dhaka",
+        "zipcode": "1212",
+        "tradelicense": "0789125"
+    },
+    {
+        "sellerName": "Islam",
+        "email": "islam@gmail.com",
+        "gender": "Male",
+        "phone": "0123456789",
+        "streetAddress": "Dhanmondi",
+        "area": "Dhanmondi",
+        "city": "Dhaka",
+        "zipcode": "1209",
+        "tradelicense": "01234669"
+    },
+    {
+        "sellerName": "Satu",
+        "email": "satu@gmail.com",
+        "gender": "Female",
+        "phone": "0147859625",
+        "streetAddress": "Mirpur",
+        "area": "Shamoli",
+        "city": "Dhaka",
+        "zipcode": "1209",
+        "tradelicense": "3214789"
+    },
+    {
+        "sellerName": "Syeda",
+        "email": "syeda@gmail.com",
+        "gender": "Female",
+        "phone": "0198745603",
+        "streetAddress": "Uttara",
+        "area": "Nikunja",
+        "city": "Dhaka",
+        "zipcode": "1225",
+        "tradelicense": "7589632"
+    },
+    {
+        "sellerName": "Asrafa",
+        "email": "asrafa@gmail.com",
+        "gender": "Female",
+        "phone": "0198745603",
+        "streetAddress": "Dhanmondi",
+        "area": "BijoySoroni",
+        "city": "Dhaka",
+        "zipcode": "1222",
+        "tradelicense": "1230698"
+    },
+    {
+        "sellerName": "Satu",
+        "email": "satu@gmail.com",
+        "gender": "Female",
+        "phone": "01743458715",
+        "streetAddress": "Dhanmondi",
+        "area": "BijoySoroni",
+        "city": "Dhaka",
+        "zipcode": "1209",
+        "tradelicense": "3214789"
+    }
+]

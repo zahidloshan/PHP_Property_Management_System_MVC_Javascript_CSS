@@ -1,0 +1,167 @@
+* {
+  box-sizing: border-box;
+}
+
+ body {
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+  form {
+  border: 5px solid #f1f1f1;
+  border-color: #4c90af;
+  height: 420px;
+  width: 500px;
+  margin: 0 auto;
+  transition: width 0.5s;
+
+  }
+  form:hover
+  {
+    width: 510px;
+  } 
+
+  form.regform
+  {
+    height: 1020px;
+    width: 600px;
+  }
+
+  form.profileform
+  {
+    height: 320px;
+    width: 1100px;
+  }
+
+  form.addPropertyform
+  {
+    height: 620px;
+    width: 600px;
+  }
+  form.accountform
+  {
+    height: 250px;
+   
+    
+  }
+  #Currentbalance
+  {
+    margin-left: 510px;
+  }
+
+  #WithrawAmount
+{
+  margin-left: 60px;
+}
+  form.deletepropertyform
+  {
+    height: 300px;
+    width: 300px;
+  }
+  .buttonpropertydelete
+{
+  margin-left: 5px;
+}
+
+#makediscount{
+    margin-left: 510px;
+}
+  input[type=text], input[type=password], input[type=email]  
+  {
+          width: 60%;
+          padding: 12px 20px;
+          margin: 4px 0;
+          margin-left: 30px;
+          display: inline-block;
+          border: 1px solid #4c90af;
+          box-sizing: border-box;
+  }    
+  .label
+  {
+          margin-left: 20px;  
+  }
+        
+  #Password
+  {
+            margin-left: 40px;
+  }
+ button {
+          background-color: #4c90af;
+          color: white;
+          margin: 8px 0;
+          border: none;
+          cursor: pointer;
+          width: 25%;
+          height: 40px;
+          margin-left: 60px;
+  }
+.newbutton
+        {
+          background-color: #4c90af;
+          color: white;
+          border: 1px solid ;
+          border: none;
+          cursor: pointer;
+          width: 25%;
+          height: 40px;
+          margin-left: 140px; 
+        }
+
+        div.sticky {
+          margin-left: 80px;
+          position: sticky;
+          top: 0;
+          padding: 20px;
+          border: 2px solid #f1f1f1;
+        
+        }
+      
+      
+      .topnav {
+        
+        overflow: hidden;
+        background-color: #f1f1f1;
+        padding: 20px;
+      }
+      
+      .topnav input {
+        float: left;
+        display: block;
+        color: #f1f1f1;
+        text-align: center;
+        padding: 14px 16px;
+        background-color:#4c90af; 
+        text-decoration: none;
+      }
+      .topnav input:hover {
+        border:5px solid #f1f1f1;
+        cursor: pointer;
+        color: black;
+      }
+
+        button:hover {
+          border:5px solid #f1f1f1;
+
+        }
+        .newbutton:hover {
+          border:5px solid #f1f1f1;
+
+        }
+
+        .imgcontainer {
+          text-align: center;
+          margin: 15px 0 10px 0;
+        }
+        .alltext {
+          text-align: center;
+          margin: 15px 0 10px 0;
+          font-weight: bold;
+        }
+
+        img.avatar {
+          width: 30%;
+          border-radius: 50%;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+        }
